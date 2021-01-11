@@ -1,0 +1,11 @@
+column_header,explanation
+Year,Year or range of years (for both period & cohort data)
+Age,"Age group for n-year interval from exact age x to just before exact age x+n, where n=1, 4, 5, or ? (open age interval)"
+m(x),Central death rate between ages x and x+n
+q(x),Probability of death between ages x and x+n
+a(x),Average length of survival between ages x and x+n for persons dying in the interval
+l(x),"Number of survivors at exact age x, assuming l(0) = 100,000"
+d(x),Number of deaths between ages x and x+n
+L(x),Number of person-years lived between ages x and x+n
+T(x),Number of person-years remaining after exact age x
+e(x),Life expectancy at exact age x (in years)
